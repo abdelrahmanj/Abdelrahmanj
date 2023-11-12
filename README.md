@@ -42,6 +42,7 @@ Hello, I'm Abdelrahamn Hussein, a passionate and dedicated Front-End Developer e
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular%20-05122A?style=flat&logo=Angular)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript%20-05122A?style=flat&logo=TypeScript)&nbsp;
 
 
 
