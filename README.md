@@ -25,10 +25,7 @@ Hello, I'm Abdelrahamn Hussein, a passionate and dedicated Front-End Developer e
 
 
 
-### Connect with Me :
 
-<a href="https://linkedin.com/in/abdelrahman-hussein-gabriel" target="_blank"></a>
-</a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
@@ -44,4 +41,4 @@ Hello, I'm Abdelrahamn Hussein, a passionate and dedicated Front-End Developer e
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
