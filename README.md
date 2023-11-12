@@ -23,6 +23,10 @@ Hello, I'm Abdelrahamn Hussein, a passionate and dedicated Front-End Developer e
   achieving collective goals.
 - 🌐 Portfolio: linkedin.com/in/abdelrahman-hussein-gabriel - Check out my work and see how I bring creativity and functionality together.
 
+### Connect with Me :
+
+<a href="https://linkedin.com/in/abdelrahman-hussein-gabriel" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Hussein-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
 
 
 
@@ -37,6 +41,7 @@ Hello, I'm Abdelrahamn Hussein, a passionate and dedicated Front-End Developer e
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular%20-05122A?style=flat&logo=python)&nbsp;
 
 
 
